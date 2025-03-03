@@ -1,0 +1,4 @@
+.venv
+dataset
+best_emotion_model.h5
+emotion_model.h5
